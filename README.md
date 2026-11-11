@@ -62,7 +62,3 @@ exit
 ## Notes
 
 This project is a small, educational chess implementation focused on console interaction and chess rules logic rather than advanced engine features or GUI interfaces.
-
-## License
-
-This repository does not currently include a license file. If you intend to distribute or reuse the code publicly, consider adding an appropriate open-source license.
